@@ -1,6 +1,8 @@
 # PodcastQualityCheck
 Detecting areas of poor audio quality in long-form content using deep neural networks so you don't have to.
 
+Coming soon - Don't want to listen to hours of podcast to check the audio quality is persistent throughout? This AI checks the quality in segments, providing a score for each clip. If you see an area with a low score, there might be a blip, crack, something noisy, or maybe the audio has cut out.
+
 Contributions to Futurist Acoustics GitHub projects welcome!
 
 
